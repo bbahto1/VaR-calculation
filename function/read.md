@@ -1,6 +1,6 @@
 ## Project pre-requisites
 This project is done in python version 3.8.3, one of the modules used in this case is yfinance that you can install using the command: 
-- pip3 install yfinance or pip install yfinance(if you are using just python3 version)
+- pip3 install yfinance or pip install yfinance(if you are using just python3 version) <br />
 yfinance in this case is used for accessing yahoo finance API
 
 ## Parameters
